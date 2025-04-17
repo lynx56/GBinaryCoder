@@ -1,10 +1,3 @@
-//
-//  Bit.swift
-//  R4SScales
-//
-//  Created by Gulnaz on 25.01.2021.
-//
-
 import Foundation
 
 public enum Bit: UInt8, CustomStringConvertible {

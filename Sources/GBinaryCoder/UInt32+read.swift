@@ -1,10 +1,3 @@
-//
-//  UInt32+read.swift
-//  BinaryCoder
-//
-//  Created by Holyberry on 29.07.2021.
-//
-
 import Foundation
 
 public extension UInt32 {
